@@ -41,7 +41,7 @@ You can view or download the formal PDF drafts of each paper below:
 ## 🖼 Sample Figures (from `/plots`)
 
 - ![Suppression Residual Feature](plots/deft_residual_suppression_feature_z0.4.png)  
-- ![Corner Plot (H₀, ν₀, Ωₘ)](plots/corner_deft_H0_nu0_fixedOm.png)  
+- ![Corner Plot (H₀, ν₀, Ωₘ)](plots/corner_deft_H0_nu0_fixedOm.png)
 - ![χ² Confidence Sweep](plots/z0_chi2_confidence_sweep.png)  
 - ![Joint Corner: Pantheon+ + DESI](plots/pantheon_desi_corner_chi0_gamma.png)
 
