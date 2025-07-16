@@ -1,27 +1,32 @@
-# FRACE: Field-Regulated Acceleration from Cosmic Entanglement
+# FRACE+: Field-Regulated Acceleration from Coarse-Grained Entropy
 
-Welcome to the official repository for the FRACE+ cosmology framework.
+Welcome to the official repository for the **FRACE+ cosmology framework**.
 
-FRACE+ is a scalar-field-driven model designed to explain late-time cosmic acceleration through a decoherence phase transition at redshift \( z \approx 0.4 \). This repository contains the code, figures, and analysis used to identify a statistically significant suppression feature in the Pantheon+ Type Ia supernovae dataset and to reconstruct a minimal scalar field \( \chi(z) = \gamma \log(1+z) \) capable of resolving the Hubble and \( S_8 \) tensions without altering early-universe physics.
+**FRACE+** is a scalar-field-based cosmological model that explains late-time acceleration as the result of a **decoherence phase transition** occurring near redshift \( z \approx 0.4 \). This repository contains all supporting code, figures, and analysis used to identify a statistically significant suppression feature in the Pantheon+ Type Ia supernova dataset, and to reconstruct a minimal entropy field of the form:
+
+\[
+\chi(z) = \gamma \log(1 + z)
+\]
+
+capable of resolving both the **Hubble tension** and the **\( S_8 \)** discrepancy — *without modifying early-universe physics*.
 
 ---
-
 ## 🔍 Key Papers
 
-- **Paper I:** *A Suppression Scar at \( z \approx 0.4 \): Evidence for a Decoherence Boundary in the FRACE+ Cosmology*  
-  Focuses on the anomaly in Hubble residuals and presents the initial observational evidence.
+- **Paper I:** *GRACE+: A Minimal Scalar Field Reconstruction for Late-Time Cosmological Anomalies*  
+  Develops the entropy field \(\chi(z)\) from observational residuals and introduces the GRACE+ model as a minimal, thermodynamic explanation for late-time acceleration.
 
-- **Paper II:** *GRACE+: A Minimal Scalar Field Reconstruction for Resolving Late-Time Cosmological Tensions*  
-  Introduces the theoretical mechanism and validates the scalar field dynamics through observational consistency checks.
+- **Paper II:** *Fundamental Bounds on Entanglement-Gravity Coupling*  
+  Establishes theoretical limits on entanglement-based gravity models and motivates the shift toward coarse-grained entropy fields as fundamental drivers of cosmic acceleration.
+
 
 ---
-
 ## 📄 Download Papers
 
 You can view or download the formal PDF drafts of each paper below:
 
-- [Paper I – FRACE+ Suppression Scar Detection](papers/Paper_I_FRACE_SuppressionScar_z0.4.pdf)  
-- [Paper II – GRACE+ Scalar Field Reconstruction](papers/Paper_II_GRACE_ScalarField_Model.pdf)
+- [Paper I – GRACE+: Scalar Field Reconstruction for Late-Time Anomalies](papers/GRACE_Paper_Final.pdf)  
+- [Paper II – Fundamental Bounds on Entanglement-Gravity Coupling](papers/Entanglement_Gravity_Bounds.pdf)
 
 ---
 
