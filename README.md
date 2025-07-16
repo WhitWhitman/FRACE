@@ -25,7 +25,7 @@ capable of resolving both the **Hubble tension** and the **\( S_8 \)** discrepan
 
 You can view or download the formal PDF drafts of each paper below:
 
-- [Paper I – GRACE+: Scalar Field Reconstruction for Late-Time Anomalies](papers/GRACE_Paper_Final.pdf)  
+- [Paper I – GRACE+: A Minimal Scalar Field Reconstruction for Late-Time Cosmological Anomalies](papers/GRACE_Paper_Final.pdf)  
 - [Paper II – Fundamental Bounds on Entanglement-Gravity Coupling](papers/Entanglement_Gravity_Bounds.pdf)
 
 ---
