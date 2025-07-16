@@ -1,6 +1,6 @@
 # GRACE+: Field-Regulated Acceleration from Coarse-Grained Entropy
 
-Welcome to the official repository for the **FRACE+ cosmology framework**.
+Welcome to the official repository for the **GRACE+ cosmology framework**.
 
 **GRACE+** is a scalar-field-based cosmological model that explains late-time acceleration as the result of a **decoherence phase transition** occurring near redshift \( z \approx 0.4 \). This repository contains all supporting code, figures, and analysis used to identify a statistically significant suppression feature in the Pantheon+ Type Ia supernova dataset, and to reconstruct a minimal entropy field of the form:
 
